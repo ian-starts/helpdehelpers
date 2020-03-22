@@ -8,17 +8,10 @@ const Header = (props) => {
                 <Link href={'#'}>
                     <a>
                         <div className="flex flex-1">
-                            <h1 className="text-gray-800 px-4 py-5 self-center font-sans text-xl lg:text-3xl xl:text-3xl">#HelpDeHelper</h1>
+                            <h1 className="text-gray-800 px-4 py-5 self-center font-sans text-xl lg:text-3xl xl:text-3xl">#HelpDeHelpers</h1>
                         </div>
                     </a>
                 </Link>
-                {/*<div className="flex flex-1 flex-row justify-end self-center">*/}
-                {/*    <Link href={props.signupLink ?? "#signup"}>*/}
-                {/*        <a className="menu--button-cta">*/}
-                {/*            <span className="menu--button-cta-text">Download</span>*/}
-                {/*        </a>*/}
-                {/*    </Link>*/}
-                {/*</div>*/}
             </div>
             <style jsx>{`
               .menu--button-cta{

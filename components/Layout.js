@@ -18,13 +18,13 @@ export default (props) => {
                       content={""}/>
 
                 <meta property="og:type" content="website"/>
-                <meta property="og:url" content="https://getparley.app/"/>
+                <meta property="og:url" content="https://helpdehelpers.nl/"/>
                 <meta property="og:title" content={props.title}/>
                 <meta property="og:description"
                       content={""}/>
 
                 <meta property="twitter:card" content="summary_large_image"/>
-                <meta property="twitter:url" content="https://getparley.app/"/>
+                <meta property="twitter:url" content="https://helpdehelpers.nl/"/>
                 <meta property="twitter:title" content={props.title}/>
                 <meta property="twitter:description"
                       content={""}/>
