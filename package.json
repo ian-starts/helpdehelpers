@@ -1,0 +1,25 @@
+{
+  "name": "parley-lapa",
+  "version": "0.1.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "export": "npm run build && next export"
+  },
+  "dependencies": {
+    "@zeit/next-sass": "^1.0.1",
+    "next": "^9.2.2",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "devDependencies": {
+    "styled-jsx-plugin-postcss": "^2.0.1",
+    "@fullhuman/postcss-purgecss": "^2.0.6",
+    "autoprefixer": "^9.7.4",
+    "tailwindcss": "^1.2.0",
+    "babel-plugin-inline-react-svg": "^1.0.1"
+  }
+}
