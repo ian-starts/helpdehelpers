@@ -33,7 +33,7 @@ const Hero = (props) => {
                             jullie allemaal.
                             Wil je hier zelf ook bij betrokken worden? doemee.codefor.nl
                         </p>
-                        <div className="flex flex-wrap">
+                        <div className="flex flex-wrap mt-2">
                             <a
                                 href="https://slack-redir.net/link?url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLScEK83SlUdbTdw6SYqiqRXlLMLbSas3_MYBZqffElVSiPwISQ%2Fviewform">
                                 <div className="button button-cta">
